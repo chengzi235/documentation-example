@@ -14,3 +14,4 @@ Basics
    dependencies.rst
    usage.rst
    credit.rst
+   pcie/pcie.rst
